@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Register Example</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+
+    <string name="usernameText">Enter Username</string>
+    <string name="passwordText">Enter Password</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="payString">Pay</string>
+    <string name="orderType">Order Type</string>
+    <string name="pizza599">£5.99 Pizza</string>
+    <string name="pizza699">£6.99 Pizza</string>
+    <string name="pizza799">£7.99 Pizza</string>
+    <string name="pizzamaker">Pizza</string>
+</resources>
